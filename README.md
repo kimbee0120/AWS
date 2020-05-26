@@ -1,7 +1,4 @@
-```diff
-## text in blue
-```
-# AWS
+# <b>AWS</b>
 *There were some problem with no cloud computing*
 - Buy a stack of servers
 - High traffic  
@@ -70,4 +67,29 @@
 - combination of private cloud and public cloud 
 - you can build application and you can move to public
 
-## Cloud Providers 
+## <b>Cloud Providers</b>
+*AWS is 6 times larger than other cloud providers with amazing price*
+*Google CloudPlatform is very good becuase of all infrastructures with cheapest service in the market*
+
+<b> AWS</b> is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.
+
+### AWS Advantages
+- Flexibility
+    - all big data takecare of
+- Cost Effective
+    - takecare almost every aspects.
+    - free one year sufficient resources 
+    - charge only for the service that you are using
+- Scalability 
+    - you can start less and scale up when you need 
+- Security
+
+## <b>Domains of AWS</b>
+- Compute
+- Migration
+- Security
+- Storage //executable files
+- Networking
+- Messaging
+- Database //datas
+- Management Tools
